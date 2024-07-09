@@ -103,8 +103,8 @@
 <br/>
 
 ## Top Open Source -
-[![RamadanPlanner](https://github-readme-stats.vercel.app/api/pin/?username=mehedihasannovi&repo=ramadanplanner&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MehediHasannOvi/ramadanplanner)
-[![Tasbih](https://github-readme-stats.vercel.app/api/pin/?username=mehedihasannovi&repo=tasbih&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehedihasannovi/Tasbih)
+[![RamadanPlanner](https://github-readme-stats.vercel.app/api/pin/?username=mehedihasannovi&repo=ramadanplanner&border_color=9CDBA6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9CDBA6)](https://github.com/MehediHasannOvi/ramadanplanner)
+[![Tasbih](https://github-readme-stats.vercel.app/api/pin/?username=mehedihasannovi&repo=tasbih&border_color=9CDBA6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9CDBA6)](https://github.com/mehedihasannovi/Tasbih)
 
 
 <p align="left">
@@ -118,4 +118,4 @@
 
 
 
-![Mehedi Hasan Ovi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedihasannovi&custom_title=Mehedi&Hasan&Ovi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mehedi Hasan Ovi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedihasannovi&custom_title=Mehedi&Hasan&Ovi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=9CDBA6&line=9CDBA6&point=9CDBA6&area_color=FFFFFF&title_color=FFFFFF&area=true)
