@@ -55,8 +55,8 @@
 ### 📫 Connect with Me
 
 - 🌐 Portfolio: [Coming Soon]
-- 🐦 Twitter: [@mehedihasannovi](https://twitter.com/mehedihasannovi)
-- 📧 Email: `youremail@example.com` *(replace this)*
+- 🐦 Twitter: [@mehedihasannovi](https://twitter.com/Mehedi_Ovi_)
+- 📧 Email: `mehedihasannovi@gmail.com` *(replace this)*
 
 ---
 
